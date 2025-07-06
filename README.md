@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/nagarjun226-food-tracker-mcp-badge.png)](https://mseep.ai/app/nagarjun226-food-tracker-mcp)
+
 # Food Tracker MCP
 
 A Model Context Protocol (MCP) server for tracking food consumption, analyzing nutrition, and managing dietary restrictions.
